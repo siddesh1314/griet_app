@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350556009430",
+    "project_id": "my-firebase-griet",
+    "storage_bucket": "my-firebase-griet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350556009430:android:c8abe9cff0c55e768d6a77",
+        "android_client_info": {
+          "package_name": "com.example.griet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350556009430-ip2f2smn4ddvg5un2readf6938o1n698.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ujd-KMT4BWE3Cs5GA58t2gwn8G34IRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350556009430-ip2f2smn4ddvg5un2readf6938o1n698.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
